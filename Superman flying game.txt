@@ -1,0 +1,5 @@
+// ISO Game: Super Nova
+public class SuperNova {
+    public static void main(String[] args) {
+        System.out.println("Welcome to Super Nova!");
+        // Add your Super Nova game script here
